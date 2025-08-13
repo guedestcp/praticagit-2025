@@ -1,0 +1,5 @@
+LS -> Lista arquivos e pastas de onde você está.
+CD -> Permite se mover entre diretórios.
+PWD -> Print Working Directory, mostra o seu caminho exato atual.
+MKDIR -> Permite a criação de pastas/diretórios.
+CAT -> Mostra o que tem dentro do arquivo
